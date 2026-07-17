@@ -1,6 +1,6 @@
 # Smart_safety_Gloves
 # 🧤 Techjiku Safety Glove
-
+![Safety Glove Prototype](images/glove.jpg)
 > A smart emergency communication glove designed to help people quickly communicate their basic needs with a single button press
 
 ---
